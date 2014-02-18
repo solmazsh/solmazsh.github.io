@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+baseurl: /solmazsh.github.io
+rdiscount:
+extensions: [smart]
+
+name: Solmaz Shahalizadeh
+url: http://solmazsh.github.io
+description: A little bit of everything.
+twitter: solmaz_sh
+github: solmazsh
